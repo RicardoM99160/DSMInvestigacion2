@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">calculadoraGeometrica</string>
+    
+    <string name="titulo">Calculadora Geométrcia</string>
+    <string name="boton">Realizar Calculo</string>
+    <string name="figura">Seleccionar Figura:</string>
+    <string name="operacion">Seleccionar Operación:</string>
+
+    <string-array name="figuras">
+        <item>Cuadrado</item>
+        <item>Rectangulo</item>
+        <item>Triangulo</item>
+        <item>Circulo</item>
+    </string-array>
+
+    <string-array name="operaciones">
+        <item>Perimetro</item>
+        <item>Area</item>
+    </string-array>
+
+</resources>
